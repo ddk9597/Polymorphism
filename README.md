@@ -13,3 +13,14 @@ Polymorphism 다형성(多形性)
 상속을 통해 작동하며
 
 부모 클래스 타입 참조변수로 상속관계에 있는 여러 타입의 자식 객체를 참조할 수 있음
+
+# Up Casting
+
+# Down Casting
+
+# Static Binding
+
+# Dynamic Binding
+
+# Up Casting
+
