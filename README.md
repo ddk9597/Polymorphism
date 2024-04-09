@@ -7,6 +7,7 @@
 
 
 abstract class Food { abstract void cook(); }  // 부모 역할. 하위 클래스에서 구현 될 추상 메서드 있음.
+
 class Tomato extends Food{ void cook(){System.out.println("Pizza🍕"); } } // 자식 역할
 
 Polymorphism 다형성(多形性)
